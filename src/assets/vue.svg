@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="46px" viewBox="0 0 53 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>vue</title>
+    <g id="Live-website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tc-Overview" transform="translate(-754.000000, -1338.000000)" fill-rule="nonzero">
+            <g id="vue" transform="translate(754.000000, 1338.000000)">
+                <g id="Group" transform="translate(26.500000, 23.000000) scale(-1, 1) rotate(-180.000000) translate(-26.500000, -23.000000) ">
+                    <g transform="translate(0.015800, 0.002623)" fill="#4DC295" id="Path">
+                        <polygon points="31.8626801 44.8582647 25.8932991 34.5581775 19.9239182 44.8582647 0.0450290768 44.8582647 25.8932991 0.257082452 51.7415692 44.8582647"></polygon>
+                    </g>
+                    <g transform="translate(10.285589, 17.840998)" fill="#445C71" id="Path">
+                        <polygon points="21.5928906 27.0198904 15.6235097 16.7198033 9.65412874 27.0198904 0.114547652 27.0198904 15.6235097 0.259705743 31.1324717 27.0198904"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
