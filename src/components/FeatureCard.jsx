@@ -33,7 +33,7 @@ after:w-[20px] after:rounded-3xl after:bg-btn-primary-bg after:content-[''] sm:m
       <motion.div
         initial={{ opacity: 0, scale: 0 }}
         whileInView={{ opacity: 1, scale: 1 }}
-        transition={{ duration: 0.6}}
+        transition={{ duration: 0.6 }}
         viewport={{ once: "true" }}
         className="img-container h-[400px] w-full max-w-[768px] overflow-hidden rounded-md"
       >

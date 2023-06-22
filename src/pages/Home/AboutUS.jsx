@@ -3,18 +3,10 @@ import Container from "../../components/Container";
 
 import { AiFillPhone, AiOutlineCheck } from "react-icons/ai";
 
-import { motion } from "framer-motion";
-
 const AboutUS = () => {
   return (
     <Container>
-      <motion.div
-        initial={{ opacity: 0, scale: 0 }}
-        whileInView={{ opacity: 1, scale: 1 }}
-        transition={{ duration: 0.6 }}
-        viewport={{ once: "true" }}
-        className="relative grid  max-w-[1250px] gap-5 font-poppins lg:mx-auto lg:grid-cols-2 lg:gap-40"
-      >
+      <div className="relative grid  max-w-[1250px] gap-5 font-poppins lg:mx-auto lg:grid-cols-2 lg:gap-40">
         <div className="content grid   gap-5 pb-10 ">
           <h4
             className="relative   text-xl font-semibold capitalize 
@@ -75,7 +67,7 @@ after:top-7 after:h-[3px] after:w-[28px] after:rounded-3xl after:bg-btn-primary-
             className=" max-w-full  animate-customBounce object-cover object-center "
           />
         </div>
-      </motion.div>
+      </div>
     </Container>
   );
 };
